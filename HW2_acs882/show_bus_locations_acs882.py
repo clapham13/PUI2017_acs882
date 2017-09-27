@@ -14,7 +14,6 @@ if not len(sys.argv) == 3:
 key = str(sys.argv[1])
 LineRef = str(sys.argv[2])
 
-
 url = 'http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=%s&LineRef=%s'%(key, LineRef)
 response = urllib.urlopen(url)
 data = response.read().decode('utf-8')
