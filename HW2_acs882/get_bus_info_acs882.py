@@ -24,7 +24,7 @@ numBuses = len(dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][
 
 busInfo = open(newFile, 'w')
 
-busInfo.write('Latitude,Longitude,Stop Name, Stop Status\n')
+busInfo.write('Latitude,Longitude,Stop Name,Stop Status\n')
 
 for i in range(numBuses):
     latitude =  str((dataDict['Siri']['ServiceDelivery']['VehicleMonitoringDelivery'][0]['VehicleActivity'][i]['MonitoredVehicleJourney']['VehicleLocation']['Latitude']))
