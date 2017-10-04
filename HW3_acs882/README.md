@@ -2,5 +2,6 @@ For Part 1, I worked alone for a first run-through, then spoke with Rachel L., J
 
 For Part 1, it can also be noted that the Central Limit Therom appears to reveal itself through the increasingly-close-to-average means attained by running simulations on the distributions for larger sample sets, as opposed to the more erratic smaller sample sets. 
 
-For Part 2, I didn't draw any conclusions (though my data did seem like it would reject the null hypothesis!), because it seemed that the requirements only went up to plotting of the data.
+For Part 2, I didn't draw any conclusions (though my data did seem like it would reject the null hypothesis!), because it seemed that the requirements only went up to plotting of the data. I did this part alone - I couldn't find anyone to work with me! But will try to be more collaborative on future assignments.
 
+For Part 3, I worked alone, as well. This should be fairly self-explainatory.
