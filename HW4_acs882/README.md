@@ -8,3 +8,11 @@ Logistic Regression	| 3, susceptible groups (elderly, respiratory condition, car
 Multivariate Regression	| 3, precipitation, wind speed, relative humidity | Ordinal | 1, Vegetative Coverage| Ordinal | Soil profile, sunshine hours, minimum temp, max temp | Categorical | Do climate factors effect vegetation coverage in Northwest China? | vegetation coverage in areas with higher precipitation <= vegetation coverage in areas with lower precipitation | 0.05 | [Trend Patterns of Vegetative Coverage and Their Underlying Causes in the Deserts of Northwest China over 1982 – 2008](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0126044) |
 Chi square        | 1, Gender | categorical | 1, colour choice for overlay| categorical | 0 | NA |         Does gender influence the choice of colour of overlays or PTLs of patients with Visual Stress? | Gender does not influence choice of colour | 0.05 assumed, based on that (Chi-square 6.46, p = 0.040) and (Chi-square 0.788, p = 0.674) | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326 |
   |||||||||
+  
+ I worked on part 2 with Kent and Valaria. We reviewed the articles seperately, then came together to formulate our findings and put it into readable format.
+
+Part 3
+I worked with Srikanth on part 3 to review the z-test.
+
+Part 4
+I worked mostly alone to complete part 4, but recieved some help from Andrew N and Ruben regarding the joining of the dataframes. I then worked with Andrew and Jon H. to discuss how we approached the night/day problem. 
