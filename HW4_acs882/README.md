@@ -9,6 +9,8 @@ Multivariate Regression	| 3, precipitation, wind speed, relative humidity | Ordi
 Chi square        | 1, Gender | categorical | 1, colour choice for overlay| categorical | 0 | NA |         Does gender influence the choice of colour of overlays or PTLs of patients with Visual Stress? | Gender does not influence choice of colour | 0.05 assumed, based on that (Chi-square 6.46, p = 0.040) and (Chi-square 0.788, p = 0.674) | http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163326 |
   |||||||||
   
+  # FBB good
+  
  I worked on part 2 with Kent and Valaria. We reviewed the articles seperately, then came together to formulate our findings and put it into readable format.
 
 Part 3
