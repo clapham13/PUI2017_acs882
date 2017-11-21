@@ -16,6 +16,7 @@ Hope this is helpful!!!
 
 
 ![Alt text](https://github.com/clapham13/PUI2017_acs882/blob/master/HW9_acs882/solar_nycha_data_map.png "Ana's Graph")
+ORIGINAL TEXT PROVIDED WITH GRAPHIC
 The data describe available rooftop space for solar from LiDAR data collected for New York City for a subset of buildings.
 
 Because the data set includes latitude and longitude (location), a map based visualization might be useful for a policy maker
